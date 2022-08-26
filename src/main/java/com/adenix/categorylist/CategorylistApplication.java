@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CategorylistApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(CategorylistApplication.class, args);
 	}
 
